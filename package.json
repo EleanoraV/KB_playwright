@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.41.2",
+    "npx": "^10.2.2"
+  }
+}
